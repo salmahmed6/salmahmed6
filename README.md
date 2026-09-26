@@ -3,7 +3,7 @@ Hi there,
 It's Salma, a software developer passionate about building practical solutions and real-world projects. My focus is on turning ideas into working products — from backend systems to full platforms.
 
 Check out what I'm currently working on:
-- [ORDEX](https://ordex.mora-industries.cloud/): Architecting a multi-tenant SaaS platform that centralizes social commerce by automating order lifecycles and delivery logic.
+- [ORDEX](https://ordex-company.vercel.app/): Architecting a multi-tenant SaaS platform that centralizes social commerce by automating order lifecycles and delivery logic.
 - [ALINEA](https://alinea-sccn.vercel.app/): an AI behavioral coach for crypto that integrates directly into your digital wallet to analyze real-time signals and prevent emotional trading by intervening with personalized messages or mandatory pauses before high-risk transactions are signed.
 - Source-It: B2B marketplace platform focused on supplier–buyer workflows.
   
